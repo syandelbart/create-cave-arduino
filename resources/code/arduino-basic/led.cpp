@@ -21,4 +21,5 @@ void loop()
     delay(1000);
     // Zet LED uit
     digitalWrite(LED_PIN, LOW);
+    delay(1000);
 }
